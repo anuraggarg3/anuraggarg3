@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Anurag Garg
 
 <!--
 **anuraggarg3/anuraggarg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
