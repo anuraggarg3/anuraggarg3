@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Garg</h1>
-<h4 align="center">I'm a 3nd-year undergrad @ IET-DAVV pursuing CSE. Currently exploring Web Devlopment and got highly fascinated by open-source.
+<h4 align="center">I'm a 4th-year undergrad @ IET-DAVV pursuing CSE. Currently exploring Web Devlopment and got highly fascinated by open-source.
 </h4>
 <h2>Connect with me:</h2>
 
