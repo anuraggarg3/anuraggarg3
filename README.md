@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Garg</h1>
-<h4 align="center">I'm a 4th-year undergrad @ IET-DAVV pursuing CSE. Currently exploring Web Devlopment and got highly fascinated by open-source.
+<!-- <h4 align="center">I'm a 4th-year undergrad @ IET-DAVV pursuing CSE. Currently exploring Web Devlopment and got highly fascinated by open-source.
 </h4>
 <h2>Connect with me:</h2>
 
@@ -10,7 +10,7 @@
 <a href = "https://twitter.com/anuraggarg_3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp; &nbsp;
 <a href = "https://www.instagram.com/anurag_garg3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp; &nbsp;
 </p>
-
+ -->
 
 </br>
 <!-- ## 📊 My Github Stats -->
